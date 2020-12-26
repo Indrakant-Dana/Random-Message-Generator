@@ -1,4 +1,4 @@
-# **Random Message Generator App**
+# **Random Message Generator**
 
 _This being the first project of mine while learning JavaScript. Please ignore the silly messages I have put though._
 
